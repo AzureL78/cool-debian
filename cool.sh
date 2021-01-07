@@ -1,1 +1,1 @@
-cvlc --play-and-exit $HOME/cool/cool.wav
+cvlc --play-and-exit $HOME/cool/cool.mp3
