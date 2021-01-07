@@ -7,5 +7,5 @@ The script:
 -and links the script to /bin for easy access.
 
 To install, invoke this script:
-wget https://github.com/AzureL78/cool-debian/blob/main/install.sh | bash
+wget https://github.com/AzureL78/cool-debian/blob/main/install.sh | bash install.sh
 You can also download the install manually if you do not wish to pipe to bash.
