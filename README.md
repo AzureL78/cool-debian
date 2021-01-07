@@ -10,6 +10,4 @@ To install, invoke this script:
 
 *curl -sSL https://raw.githubusercontent.com/AzureL78/cool-debian/main/install.sh | bash*
 
-You can uninstall with:
-
-*curl -sSL https://raw.githubusercontent.com/AzureL78/cool-debian/main/uninstall.sh | bash*
+You can uninstall with uninstall_cool.
