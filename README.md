@@ -8,8 +8,8 @@ The script:
 
 To install, invoke this script:
 
-*wget https://raw.githubusercontent.com/AzureL78/cool-debian/main/install.sh && chmod +X install.sh && bash install.sh*
+*curl -sSL https://raw.githubusercontent.com/AzureL78/cool-debian/main/install.sh | bash*
 
 You can uninstall with:
 
-*wget https://raw.githubusercontent.com/AzureL78/cool-debian/main/uninstall.sh && chmod +X uninstall.sh && bash uninstall.sh*
+*curl -sSL https://raw.githubusercontent.com/AzureL78/cool-debian/main/uninstall.sh | bash*
