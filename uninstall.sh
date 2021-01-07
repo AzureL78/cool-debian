@@ -1,3 +1,3 @@
-sudo rm -r /bin/cool
-sudo rm -r $HOME/cool && sudo rm /bin/uninstall_cool
+sudo rm -r /usr/bin/cool /usr/bin/uninstall_cool
+sudo rm -r $HOME/cool
 echo "Thanks for using!"
