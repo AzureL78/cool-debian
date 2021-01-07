@@ -1,6 +1,5 @@
 echo "Welcome to Cool.sh! Booting up..."
 sleep 3s
-echo "Alright, grabbing Cool.wav from YouTube using Youtube-dl. Not to worry, this is just a temp install."
 cd $HOME
 mkdir cool && cd cool
 echo "Please type in your password, I need to install vlc and wget."
