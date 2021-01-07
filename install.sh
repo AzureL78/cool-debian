@@ -1,4 +1,4 @@
-echo "Welcome to Cool.sh! Booting up..."
+echo "Welcome to Cool-debian! Booting up..."
 sleep 3s
 cd $HOME
 mkdir cool && cd cool
